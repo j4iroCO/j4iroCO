@@ -21,10 +21,6 @@
 - Apache Kafka
 - Scrum, Shape UP
 
-## 📊 Stats
-
-[![Jairo Lachira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j4iroCo&show_icons=true&hide_border=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Reference URLs -->
 
 [linkedin]: https://www.linkedin.com/in/jairo-lachira-peralta-613a13179/
